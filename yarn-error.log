@@ -1,0 +1,34 @@
+Arguments: 
+  /home/user/.nvm/versions/node/v18.10.0/bin/node /home/user/.nvm/versions/node/v18.10.0/bin/yarn add nodemon jsonwebtoken bcrypt mongoose dotenv
+
+PATH: 
+  /home/user/.nvm/versions/node/v18.10.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/usr/lib/jvm/java-11-openjdk-amd64/BIN:/usr/lib/jvm/java-11-openjdk-amd64/BIN:/home/user/Android/Sdk/emulator:/home/user/Android/Sdk/platform-tools:/home/user/Library/Android/Sdk/emulator:/home/user/Library/Android/Sdk/platform-tools:/home/user/Android/Sdk/emulator:/home/user/Android/Sdk/platform-tools:/home/user/Library/Android/Sdk/emulator:/home/user/Library/Android/Sdk/platform-tools
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.10.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+
+npm manifest: 
+  {
+    "name": "sploot-teach",
+    "version": "1.0.0",
+    "description": "for assignments",
+    "main": "server.js",
+    "author": "shreyans mishra",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
